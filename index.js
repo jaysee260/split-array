@@ -23,4 +23,4 @@ function split(arr, index = -1) {
   return { first_half, second_half };
 }
 
-module.exports  = split;
+module.exports = split;
