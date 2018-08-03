@@ -2,6 +2,7 @@
 
 <!-- badges -->
 [![npm (scoped)](https://img.shields.io/npm/v/@grammer/split-array.svg)](https://github.com/jsdev17/split-array)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@grammer/split-array.svg)](https://www.npmjs.com/package/@grammer/split-array)
 
 <!-- content -->
 
