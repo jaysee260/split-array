@@ -1,0 +1,19 @@
+{
+  "name": "@grammer/split-array",
+  "version": "1.0.0",
+  "description": "splits an array in half or at specified index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdev17/split-array.git"
+  },
+  "author": "Juan Carlos Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsdev17/split-array/issues"
+  },
+  "homepage": "https://github.com/jsdev17/split-array#readme"
+}
