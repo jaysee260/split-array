@@ -5,5 +5,14 @@
 
 <!-- content -->
 
-A small method to split arrays in half or at a specified index. Written entirely in vanilla JS with zero dependencies.
+A small method to split an array in half or at a specified index. Returns object containing two arrays, like so:
+
+```js
+{
+  first_half: [ ... ],
+  second_half: [ ... ]
+}
+```
+
+Written entirely in vanilla JS with zero dependencies.
 
